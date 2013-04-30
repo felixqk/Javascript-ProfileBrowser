@@ -1,0 +1,28 @@
+{
+  "author": "Qian Kun",
+  "name": "profilebrowser-app",
+  "email": "felixqk@gmail.com",
+  "homepage": "",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.4"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~1.8.3",
+    "twitter-bootstrap": "~2.2",
+  }
+}

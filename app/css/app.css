@@ -1,0 +1,128 @@
+	h1 {
+		height: 60px;
+		text-align: center;
+	}
+
+	body {
+		max-width: 120%;
+	}
+
+	#profilesAccordionViewer {	
+			margin-left: -20px;
+			margin-right: -20px;
+	}
+
+	.accordion-inner{
+		border-top:0
+	}
+
+	.accordion-body {
+		margin-top: -3px;
+	}	
+
+	.accordion-toggle {
+		color:#000;
+		cursor: pointer;					
+	}
+
+	a:hover{
+		text-decoration:none;	
+	}
+
+	.accordion-heading {
+	
+		height: 42px;
+		margin-top: -4px;
+		background-color: #ccc;					
+		background-image: -moz-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);	/* Mozilla Firefox */
+		background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #CCCCCC), color-stop(1, #DDDDDD));	/* Webkit (Safari/Chrome 10) */
+		background-image: -webkit-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* Webkit (Chrome 11+) */
+		background-image: -ms-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* IE10+ */
+		background-image: -o-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* Opera 11.10+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCCCCC', endColorstr='#DDDDDD',GradientType=0 ); /* IE6-9 */				
+	}		
+
+	.profileImg {
+		padding: 3px;
+		background-color: white;
+		box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+		-moz-box-shadow: 0 5px 25px rgba(34,25,25,0.4);
+		-webkit-box-shadow: 0 7px 28px rgba(34, 25, 25, 0.4);
+		overflow: hidden;
+		height: 140px;
+		width: 120px;
+		margin: 3px 10px;
+	}
+
+	.profileName {
+		height: 35px;
+		font-size: 18px;
+		font-weight:bold;
+	}
+
+
+	#profilesAccordionViewer {
+		visibility:visible;
+	}
+
+	#profilesTabViewer {
+		display:none;
+	}
+
+	.profileImg {
+		float:left;
+		border:0px;
+	}
+		
+	@media screen and (min-width:760px){
+
+		body {
+			max-width: 80%;
+			margin: 0px auto 0px auto;
+		}	
+		#profilesTabViewer {
+			display:block;
+		}
+		#profilesAccordionViewer {
+			visibility:hidden;
+		}
+
+			#profileTab {
+			width: 170px;
+				
+		}
+
+		#profileTab li {
+			height: 39px;
+			cursor: pointer;
+			background-color: #ccc;											
+			background-image: -moz-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);	/* Mozilla Firefox */
+			background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #CCCCCC), color-stop(1, #DDDDDD));	/* Webkit (Safari/Chrome 10) */
+			background-image: -webkit-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* Webkit (Chrome 11+) */
+			background-image: -ms-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* IE10+ */
+			background-image: -o-linear-gradient(bottom, #CCCCCC 0%, #DDDDDD 100%);/* Opera 11.10+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CCCCCC', endColorstr='#DDDDDD',GradientType=0 ); /* IE6-9 */												
+		}
+		#profileTab li a {
+			color:#000;
+
+		}
+
+		#profileTab li:first-child {
+			border-top-left-radius: 10px;
+		}
+		#profileTab li:last-child {
+			border-bottom-left-radius: 10px;	
+		}
+
+		#profileTab .active {
+			font-weight:bold;
+			background-image: none;			
+		}
+
+		.profileName {
+			height: 35px;
+			font-size: 25px;
+			font-weight:bold;
+		}			
+	}

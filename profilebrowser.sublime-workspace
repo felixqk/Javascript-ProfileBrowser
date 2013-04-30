@@ -1,0 +1,533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"getUser",
+				"getUserMedia"
+			],
+			[
+				"quicksearch",
+				"quicksearch-match"
+			],
+			[
+				"data-fil",
+				"data-filter"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"change",
+				"changePage"
+			],
+			[
+				"back",
+				"backgroundColor"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hcl/Desktop/felixqk/Workspace/task.TODO",
+			"settings":
+			{
+				"buffer_size": 41,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/hcl/Desktop/felixqk/Workspace/URA/homepage.html",
+			"settings":
+			{
+				"buffer_size": 35788,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 957,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hcl/Desktop/felixqk/Workspace/ProfileBrowser/profilebrowser.sublime-project",
+		"/Users/hcl/Desktop/felixqk/Workspace/URA/ura.sublime-project",
+		"/Users/hcl/Desktop/felixqk/Workspace/todo.TODO",
+		"/Users/hcl/Desktop/felixqk/Workspace/untitled.TODO",
+		"/Users/hcl/Desktop/felix/Projects/ProfileViewer/app/index.html",
+		"/Users/hcl/Downloads/Rahul Harikrishna/index.html",
+		"/Users/hcl/Downloads/Rahul Harikrishna/krh/main.js",
+		"/Users/hcl/Downloads/Rahul Harikrishna/krh/main.css",
+		"/Users/hcl/Desktop/ProfileViewer/app/lib/bootstrap.min.css",
+		"/Users/hcl/Desktop/ProfileViewer/app/data/data.js",
+		"/Users/hcl/Desktop/ProfileViewer/app/index.html",
+		"/Applications/MAMP/htdocs/Click2ChangePhoneGap/index.html",
+		"/Applications/MAMP/htdocs/Click2ChangeHTML5/index.html",
+		"/Applications/MAMP/htdocs/Click2Change/clickdetails.html",
+		"/Applications/MAMP/htdocs/Click2Change/clickmap.html",
+		"/Applications/MAMP/htdocs/Click2Change/clickpic.html",
+		"/Applications/MAMP/htdocs/Click2Change/qrreader.html",
+		"/Applications/MAMP/htdocs/Click2Change/2.html",
+		"/Applications/MAMP/htdocs/Click2Change/homepage.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu4.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu7.html",
+		"/Applications/MAMP/htdocs/CubeMenu/js/jquery-min.js",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu6.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu5.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu3.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu2.html",
+		"/Applications/MAMP/htdocs/CubeMenu/cubemenu.html",
+		"/Applications/MAMP/htdocs/Social/clickdetails.html",
+		"/Applications/MAMP/htdocs/Social/homepage.html",
+		"/Applications/MAMP/htdocs/Social/clickpic.html",
+		"/Applications/MAMP/htdocs/qrdemo/qrdemo.html",
+		"/Applications/MAMP/htdocs/qrdemo/js/camera.js",
+		"/Applications/MAMP/htdocs/qrdemo/js/qr.js",
+		"/Applications/MAMP/htdocs/qrdemo/js/init.js",
+		"/Applications/MAMP/htdocs/qrdemo/js/lib/ga.js",
+		"/Applications/MAMP/htdocs/Click2Change/qrdemo.html",
+		"/Users/hcl/Downloads/jsqrcode-master/src/test.html",
+		"/Applications/MAMP/htdocs/Click2Change/xml/newyork.kml",
+		"/Applications/MAMP/htdocs/Click2Change/js/jquery.quicksearch.js",
+		"/Applications/MAMP/htdocs/Click2Change/css/examples.css",
+		"/Applications/MAMP/htdocs/fastacash/css/untitled.html",
+		"/Applications/MAMP/htdocs/fastacash/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/fastacash/homepage.html",
+		"/Users/hcl/Downloads/newyork.kml",
+		"/Applications/MAMP/htdocs/Click2Change/js/jquery.mobile-1.3.0-rc.1.js",
+		"/Applications/MAMP/htdocs/Click2Change/js/jquery.js",
+		"/Applications/MAMP/htdocs/Click2Change/js/jquery.isotope.js",
+		"/Users/hcl/Downloads/HPNeo-gmaps-a1371cc/examples/basic.html",
+		"/Applications/MAMP/htdocs/Click2Change/test.html",
+		"/Applications/MAMP/htdocs/Click2Change/3.html",
+		"/Applications/MAMP/htdocs/Click2Change/4.html",
+		"/Applications/MAMP/htdocs/Click2Change/5.html",
+		"/Applications/MAMP/htdocs/Click2Change/css/style.css",
+		"/Applications/MAMP/htdocs/Javascript.html",
+		"/Applications/MAMP/htdocs/Click2Change/js/jquery.infinitescroll.min.js",
+		"/Applications/MAMP/htdocs/JS/JS_input.html",
+		"/Applications/MAMP/htdocs/HTML.html",
+		"/Applications/MAMP/htdocs/JS/JS_table.html",
+		"/Applications/MAMP/htdocs/JS/JS_window.html",
+		"/Applications/MAMP/htdocs/Archive.zip",
+		"/Users/hcl/Desktop/homepage.html",
+		"/Users/hcl/Desktop/homepage",
+		"/Users/hcl/hawkeye/main.py",
+		"/Applications/MAMP/htdocs/JS/JS_database.html",
+		"/Applications/MAMP/htdocs/JS/JS_btn.html",
+		"/Applications/MAMP/htdocs/JS/JS_select.html",
+		"/Applications/MAMP/htdocs/JS/JS_Input.html",
+		"/Applications/MAMP/htdocs/PHP/action_input.php",
+		"/Applications/MAMP/htdocs/PHP/action_table.php",
+		"/Applications/MAMP/htdocs/PHP/action3.php",
+		"/Applications/MAMP/htdocs/PHP/action_btn.php",
+		"/Applications/MAMP/htdocs/JS/JS_list.html",
+		"/Applications/MAMP/htdocs/PHP/action_list.php",
+		"/Applications/MAMP/htdocs/HTML/index3.html",
+		"/Applications/MAMP/htdocs/HTML/index4.html",
+		"/Applications/MAMP/htdocs/JS/Javascript2.html",
+		"/Applications/MAMP/htdocs/HTML/index5.html",
+		"/Applications/MAMP/htdocs/index3.html",
+		"/Applications/MAMP/htdocs/Javascript2.html",
+		"/Applications/MAMP/htdocs/LIESMICH.rtf",
+		"/Applications/MAMP/htdocs/action3.php",
+		"/Applications/MAMP/htdocs/myplugin.js",
+		"/Applications/MAMP/htdocs/index2.html",
+		"/Applications/MAMP/htdocs/action2.php",
+		"/Applications/MAMP/htdocs/action.php",
+		"/Applications/MAMP/htdocs/index2 copy.html",
+		"/Applications/MAMP/htdocs/apple-touch-icon.png",
+		"/Users/hcl/Sites/action.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"document",
+			"var",
+			"link3",
+			"Goto",
+			"goto",
+			"index3.html",
+			"index3.html ",
+			"Goto Window 3 in index3.html ",
+			"mobile.changePage",
+			"accordion",
+			"border",
+			"background-image",
+			"20px",
+			"tab",
+			"tabs",
+			"tab",
+			"tabs",
+			"tabcontainer",
+			"tab_container",
+			"map",
+			"homepage",
+			"transition",
+			"background",
+			"threed",
+			"threedbox",
+			"back",
+			"                  alert(\"down arrow key pressed!\");",
+			"animation",
+			"      .three-d:not(.active):hover .three-d-box, \n      .three-d:not(.active):focus .three-d-box {\n        -moz-transform: translateZ(-25px) rotateX(90deg);\n        -webkit-transform: translateZ(-25px) rotateX(90deg);\n        -o-transform: translateZ(-25px) rotateX(90deg);\n        transform: translateZ(-25px) rotateX(90deg);\n      }",
+			"front",
+			"qr-value",
+			"localMediaStream",
+			"display",
+			"dispaly",
+			"map",
+			"        document.getElementById(\"canvas\").classList.add(effect);",
+			"push",
+			"pusher",
+			"push",
+			"footer",
+			"push",
+			"nav",
+			"active",
+			"h1",
+			"margin",
+			"img",
+			"lead",
+			"img",
+			"item",
+			"top-menu",
+			"!",
+			"element",
+			">                  ",
+			"quicksearch",
+			"/click",
+			"/",
+			"	<link rel=\"stylesheet\" href=\"css/themes/default/jquery.mobile-1.3.0-rc.1.min.css\" />",
+			"loading",
+			"link5",
+			"home2",
+			"ho me",
+			"name",
+			"weight",
+			"155",
+			"site-nav",
+			"color-shape",
+			"color-shape ",
+			"option",
+			"o p ti on",
+			"variable-sizes",
+			"data-category",
+			"data-symbol",
+			"metal",
+			"container",
+			"alkaline-earth",
+			"transition",
+			"inner-transition",
+			"metal",
+			"alkaline-earth",
+			"alkaline-earth metal",
+			"clickable",
+			"link0",
+			"dialog2",
+			"wind",
+			"=wind",
+			"wind",
+			"dialog",
+			"dialog2",
+			"index3",
+			"index",
+			"15px",
+			"win5",
+			"win",
+			"win4",
+			"win5",
+			"win",
+			"win5",
+			"win",
+			"win5",
+			"win3",
+			"win4",
+			"win",
+			"win d",
+			"4",
+			"win",
+			"w",
+			"live",
+			"close",
+			"link0",
+			"wind",
+			"link0",
+			"link5",
+			"link35",
+			"list3",
+			"action",
+			"action3",
+			"action",
+			"php",
+			"wind",
+			"link0",
+			"link3",
+			"win2",
+			"winsame",
+			"win3",
+			"link1",
+			"link2",
+			"link3",
+			"data-ajax"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hcl/Desktop/felixqk/Workspace/task.TODO",
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PlainTasks/PlainTasks.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/hcl/Desktop/felixqk/Workspace/URA/homepage.html",
+					"settings":
+					{
+						"buffer_size": 35788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34321,
+								34321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14355.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/jQuery/Syntaxes/jQueryJavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"app/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/hcl/Desktop/felixqk/Workspace/workspace.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}
