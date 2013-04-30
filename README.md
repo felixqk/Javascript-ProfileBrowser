@@ -1,28 +1,5 @@
-<!DOCTYPE html> 
-<html> 
-<head> 
-	<title>Profile Browser (Javascript/CSS Responsive+MVC)</title> 
-</head> 
 
-<style>
-	h1 {
-		height: 120px;
-		text-align: center;
-	}
-	body {
-		max-width: 80%;
-		margin: 0px auto 0px auto;
-	}
-	li{
-		margin-bottom:40px;
-	}
-	.title{
-		color:blue;
-	}
-	.fileloc{
-		color:gray;
-	}		
-</style>
+<html> 
 
 <body>
 	<h1>Profile Browser (Javascript/CSS Responsive+MVC)</h1> 
